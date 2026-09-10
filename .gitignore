@@ -1,0 +1,10 @@
+# Ignore large model weights
+best.pt
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/

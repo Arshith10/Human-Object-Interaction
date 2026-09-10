@@ -1,0 +1,3002 @@
+[
+  {
+    "hoi_id": 1,
+    "verb": "boarding",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 2,
+    "verb": "directing",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 3,
+    "verb": "exiting",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 4,
+    "verb": "flying",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 5,
+    "verb": "inspecting",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 6,
+    "verb": "loading",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 7,
+    "verb": "riding",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 8,
+    "verb": "sitting_on",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 9,
+    "verb": "washing",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 10,
+    "verb": "no_interaction",
+    "object": "airplane"
+  },
+  {
+    "hoi_id": 11,
+    "verb": "carrying",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 12,
+    "verb": "holding",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 13,
+    "verb": "inspecting",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 14,
+    "verb": "jumping",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 15,
+    "verb": "hopping_on",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 16,
+    "verb": "parking",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 17,
+    "verb": "pushing",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 18,
+    "verb": "repairing",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 19,
+    "verb": "riding",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 20,
+    "verb": "sitting_on",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 21,
+    "verb": "straddling",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 22,
+    "verb": "walking",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 23,
+    "verb": "washing",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 24,
+    "verb": "no_interaction",
+    "object": "bicycle"
+  },
+  {
+    "hoi_id": 25,
+    "verb": "chasing",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 26,
+    "verb": "feeding",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 27,
+    "verb": "holding",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 28,
+    "verb": "petting",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 29,
+    "verb": "releasing",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 30,
+    "verb": "watching",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 31,
+    "verb": "no_interaction",
+    "object": "bird"
+  },
+  {
+    "hoi_id": 32,
+    "verb": "boarding",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 33,
+    "verb": "driving",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 34,
+    "verb": "exiting",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 35,
+    "verb": "inspecting",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 36,
+    "verb": "jumping",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 37,
+    "verb": "launching",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 38,
+    "verb": "repairing",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 39,
+    "verb": "riding",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 40,
+    "verb": "rowing",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 41,
+    "verb": "sailing",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 42,
+    "verb": "sitting_on",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 43,
+    "verb": "standing_on",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 44,
+    "verb": "tying",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 45,
+    "verb": "washing",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 46,
+    "verb": "no_interaction",
+    "object": "boat"
+  },
+  {
+    "hoi_id": 47,
+    "verb": "carrying",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 48,
+    "verb": "drinking_with",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 49,
+    "verb": "holding",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 50,
+    "verb": "inspecting",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 51,
+    "verb": "licking",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 52,
+    "verb": "opening",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 53,
+    "verb": "pouring",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 54,
+    "verb": "no_interaction",
+    "object": "bottle"
+  },
+  {
+    "hoi_id": 55,
+    "verb": "boarding",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 56,
+    "verb": "directing",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 57,
+    "verb": "driving",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 58,
+    "verb": "exiting",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 59,
+    "verb": "inspecting",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 60,
+    "verb": "loading",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 61,
+    "verb": "riding",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 62,
+    "verb": "sitting_on",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 63,
+    "verb": "washing",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 64,
+    "verb": "waving",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 65,
+    "verb": "no_interaction",
+    "object": "bus"
+  },
+  {
+    "hoi_id": 66,
+    "verb": "boarding",
+    "object": "car"
+  },
+  {
+    "hoi_id": 67,
+    "verb": "directing",
+    "object": "car"
+  },
+  {
+    "hoi_id": 68,
+    "verb": "driving",
+    "object": "car"
+  },
+  {
+    "hoi_id": 69,
+    "verb": "hosing",
+    "object": "car"
+  },
+  {
+    "hoi_id": 70,
+    "verb": "inspecting",
+    "object": "car"
+  },
+  {
+    "hoi_id": 71,
+    "verb": "jumping",
+    "object": "car"
+  },
+  {
+    "hoi_id": 72,
+    "verb": "loading",
+    "object": "car"
+  },
+  {
+    "hoi_id": 73,
+    "verb": "parking",
+    "object": "car"
+  },
+  {
+    "hoi_id": 74,
+    "verb": "riding",
+    "object": "car"
+  },
+  {
+    "hoi_id": 75,
+    "verb": "washing",
+    "object": "car"
+  },
+  {
+    "hoi_id": 76,
+    "verb": "no_interaction",
+    "object": "car"
+  },
+  {
+    "hoi_id": 77,
+    "verb": "drying",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 78,
+    "verb": "feeding",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 79,
+    "verb": "holding",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 80,
+    "verb": "hugging",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 81,
+    "verb": "kissing",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 82,
+    "verb": "petting",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 83,
+    "verb": "scratching",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 84,
+    "verb": "washing",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 85,
+    "verb": "chasing",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 86,
+    "verb": "no_interaction",
+    "object": "cat"
+  },
+  {
+    "hoi_id": 87,
+    "verb": "carrying",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 88,
+    "verb": "holding",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 89,
+    "verb": "lying_on",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 90,
+    "verb": "sitting_on",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 91,
+    "verb": "standing_on",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 92,
+    "verb": "no_interaction",
+    "object": "chair"
+  },
+  {
+    "hoi_id": 93,
+    "verb": "carrying",
+    "object": "couch"
+  },
+  {
+    "hoi_id": 94,
+    "verb": "lying_on",
+    "object": "couch"
+  },
+  {
+    "hoi_id": 95,
+    "verb": "sitting_on",
+    "object": "couch"
+  },
+  {
+    "hoi_id": 96,
+    "verb": "no_interaction",
+    "object": "couch"
+  },
+  {
+    "hoi_id": 97,
+    "verb": "feeding",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 98,
+    "verb": "herding",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 99,
+    "verb": "holding",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 100,
+    "verb": "hugging",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 101,
+    "verb": "kissing",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 102,
+    "verb": "lassoing",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 103,
+    "verb": "milking",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 104,
+    "verb": "petting",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 105,
+    "verb": "riding",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 106,
+    "verb": "walking",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 107,
+    "verb": "no_interaction",
+    "object": "cow"
+  },
+  {
+    "hoi_id": 108,
+    "verb": "cleaning",
+    "object": "dining_table"
+  },
+  {
+    "hoi_id": 109,
+    "verb": "eating_at",
+    "object": "dining_table"
+  },
+  {
+    "hoi_id": 110,
+    "verb": "sitting_at",
+    "object": "dining_table"
+  },
+  {
+    "hoi_id": 111,
+    "verb": "no_interaction",
+    "object": "dining_table"
+  },
+  {
+    "hoi_id": 112,
+    "verb": "carrying",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 113,
+    "verb": "drying",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 114,
+    "verb": "feeding",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 115,
+    "verb": "grooming",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 116,
+    "verb": "holding",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 117,
+    "verb": "hosing",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 118,
+    "verb": "hugging",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 119,
+    "verb": "inspecting",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 120,
+    "verb": "kissing",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 121,
+    "verb": "petting",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 122,
+    "verb": "running",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 123,
+    "verb": "scratching",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 124,
+    "verb": "straddling",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 125,
+    "verb": "training",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 126,
+    "verb": "walking",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 127,
+    "verb": "washing",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 128,
+    "verb": "chasing",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 129,
+    "verb": "no_interaction",
+    "object": "dog"
+  },
+  {
+    "hoi_id": 130,
+    "verb": "feeding",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 131,
+    "verb": "grooming",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 132,
+    "verb": "holding",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 133,
+    "verb": "hugging",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 134,
+    "verb": "jumping",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 135,
+    "verb": "kissing",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 136,
+    "verb": "loading",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 137,
+    "verb": "hopping_on",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 138,
+    "verb": "petting",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 139,
+    "verb": "racing",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 140,
+    "verb": "riding",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 141,
+    "verb": "running",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 142,
+    "verb": "straddling",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 143,
+    "verb": "training",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 144,
+    "verb": "walking",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 145,
+    "verb": "washing",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 146,
+    "verb": "no_interaction",
+    "object": "horse"
+  },
+  {
+    "hoi_id": 147,
+    "verb": "holding",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 148,
+    "verb": "inspecting",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 149,
+    "verb": "jumping",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 150,
+    "verb": "hopping_on",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 151,
+    "verb": "parking",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 152,
+    "verb": "pushing",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 153,
+    "verb": "racing",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 154,
+    "verb": "riding",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 155,
+    "verb": "sitting_on",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 156,
+    "verb": "straddling",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 157,
+    "verb": "turning",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 158,
+    "verb": "walking",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 159,
+    "verb": "washing",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 160,
+    "verb": "no_interaction",
+    "object": "motorcycle"
+  },
+  {
+    "hoi_id": 161,
+    "verb": "carrying",
+    "object": "person"
+  },
+  {
+    "hoi_id": 162,
+    "verb": "greeting",
+    "object": "person"
+  },
+  {
+    "hoi_id": 163,
+    "verb": "holding",
+    "object": "person"
+  },
+  {
+    "hoi_id": 164,
+    "verb": "hugging",
+    "object": "person"
+  },
+  {
+    "hoi_id": 165,
+    "verb": "kissing",
+    "object": "person"
+  },
+  {
+    "hoi_id": 166,
+    "verb": "stabbing",
+    "object": "person"
+  },
+  {
+    "hoi_id": 167,
+    "verb": "tagging",
+    "object": "person"
+  },
+  {
+    "hoi_id": 168,
+    "verb": "teaching",
+    "object": "person"
+  },
+  {
+    "hoi_id": 169,
+    "verb": "licking",
+    "object": "person"
+  },
+  {
+    "hoi_id": 170,
+    "verb": "no_interaction",
+    "object": "person"
+  },
+  {
+    "hoi_id": 171,
+    "verb": "carrying",
+    "object": "potted_plant"
+  },
+  {
+    "hoi_id": 172,
+    "verb": "holding",
+    "object": "potted_plant"
+  },
+  {
+    "hoi_id": 173,
+    "verb": "hosing",
+    "object": "potted_plant"
+  },
+  {
+    "hoi_id": 174,
+    "verb": "no_interaction",
+    "object": "potted_plant"
+  },
+  {
+    "hoi_id": 175,
+    "verb": "carrying",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 176,
+    "verb": "feeding",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 177,
+    "verb": "herding",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 178,
+    "verb": "holding",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 179,
+    "verb": "hugging",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 180,
+    "verb": "kissing",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 181,
+    "verb": "petting",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 182,
+    "verb": "riding",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 183,
+    "verb": "shearing",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 184,
+    "verb": "walking",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 185,
+    "verb": "washing",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 186,
+    "verb": "no_interaction",
+    "object": "sheep"
+  },
+  {
+    "hoi_id": 187,
+    "verb": "boarding",
+    "object": "train"
+  },
+  {
+    "hoi_id": 188,
+    "verb": "driving",
+    "object": "train"
+  },
+  {
+    "hoi_id": 189,
+    "verb": "exiting",
+    "object": "train"
+  },
+  {
+    "hoi_id": 190,
+    "verb": "loading",
+    "object": "train"
+  },
+  {
+    "hoi_id": 191,
+    "verb": "riding",
+    "object": "train"
+  },
+  {
+    "hoi_id": 192,
+    "verb": "sitting_on",
+    "object": "train"
+  },
+  {
+    "hoi_id": 193,
+    "verb": "washing",
+    "object": "train"
+  },
+  {
+    "hoi_id": 194,
+    "verb": "no_interaction",
+    "object": "train"
+  },
+  {
+    "hoi_id": 195,
+    "verb": "controling",
+    "object": "tv"
+  },
+  {
+    "hoi_id": 196,
+    "verb": "repairing",
+    "object": "tv"
+  },
+  {
+    "hoi_id": 197,
+    "verb": "watching",
+    "object": "tv"
+  },
+  {
+    "hoi_id": 198,
+    "verb": "no_interaction",
+    "object": "tv"
+  },
+  {
+    "hoi_id": 199,
+    "verb": "buying",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 200,
+    "verb": "cutting",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 201,
+    "verb": "eating",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 202,
+    "verb": "holding",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 203,
+    "verb": "inspecting",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 204,
+    "verb": "peeling",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 205,
+    "verb": "picking",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 206,
+    "verb": "smelling",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 207,
+    "verb": "washing",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 208,
+    "verb": "no_interaction",
+    "object": "apple"
+  },
+  {
+    "hoi_id": 209,
+    "verb": "carrying",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 210,
+    "verb": "holding",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 211,
+    "verb": "inspecting",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 212,
+    "verb": "opening",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 213,
+    "verb": "wearing",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 214,
+    "verb": "no_interaction",
+    "object": "backpack"
+  },
+  {
+    "hoi_id": 215,
+    "verb": "buying",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 216,
+    "verb": "carrying",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 217,
+    "verb": "cutting",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 218,
+    "verb": "eating",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 219,
+    "verb": "holding",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 220,
+    "verb": "inspecting",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 221,
+    "verb": "peeling",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 222,
+    "verb": "picking",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 223,
+    "verb": "smelling",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 224,
+    "verb": "no_interaction",
+    "object": "banana"
+  },
+  {
+    "hoi_id": 225,
+    "verb": "breaking",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 226,
+    "verb": "carrying",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 227,
+    "verb": "holding",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 228,
+    "verb": "signing",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 229,
+    "verb": "swinging",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 230,
+    "verb": "throwing",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 231,
+    "verb": "wielding",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 232,
+    "verb": "no_interaction",
+    "object": "baseball_bat"
+  },
+  {
+    "hoi_id": 233,
+    "verb": "holding",
+    "object": "baseball_glove"
+  },
+  {
+    "hoi_id": 234,
+    "verb": "wearing",
+    "object": "baseball_glove"
+  },
+  {
+    "hoi_id": 235,
+    "verb": "no_interaction",
+    "object": "baseball_glove"
+  },
+  {
+    "hoi_id": 236,
+    "verb": "feeding",
+    "object": "bear"
+  },
+  {
+    "hoi_id": 237,
+    "verb": "hunting",
+    "object": "bear"
+  },
+  {
+    "hoi_id": 238,
+    "verb": "watching",
+    "object": "bear"
+  },
+  {
+    "hoi_id": 239,
+    "verb": "no_interaction",
+    "object": "bear"
+  },
+  {
+    "hoi_id": 240,
+    "verb": "cleaning",
+    "object": "bed"
+  },
+  {
+    "hoi_id": 241,
+    "verb": "lying_on",
+    "object": "bed"
+  },
+  {
+    "hoi_id": 242,
+    "verb": "sitting_on",
+    "object": "bed"
+  },
+  {
+    "hoi_id": 243,
+    "verb": "no_interaction",
+    "object": "bed"
+  },
+  {
+    "hoi_id": 244,
+    "verb": "inspecting",
+    "object": "bench"
+  },
+  {
+    "hoi_id": 245,
+    "verb": "lying_on",
+    "object": "bench"
+  },
+  {
+    "hoi_id": 246,
+    "verb": "sitting_on",
+    "object": "bench"
+  },
+  {
+    "hoi_id": 247,
+    "verb": "no_interaction",
+    "object": "bench"
+  },
+  {
+    "hoi_id": 248,
+    "verb": "carrying",
+    "object": "book"
+  },
+  {
+    "hoi_id": 249,
+    "verb": "holding",
+    "object": "book"
+  },
+  {
+    "hoi_id": 250,
+    "verb": "opening",
+    "object": "book"
+  },
+  {
+    "hoi_id": 251,
+    "verb": "reading",
+    "object": "book"
+  },
+  {
+    "hoi_id": 252,
+    "verb": "no_interaction",
+    "object": "book"
+  },
+  {
+    "hoi_id": 253,
+    "verb": "holding",
+    "object": "bowl"
+  },
+  {
+    "hoi_id": 254,
+    "verb": "stirring",
+    "object": "bowl"
+  },
+  {
+    "hoi_id": 255,
+    "verb": "washing",
+    "object": "bowl"
+  },
+  {
+    "hoi_id": 256,
+    "verb": "licking",
+    "object": "bowl"
+  },
+  {
+    "hoi_id": 257,
+    "verb": "no_interaction",
+    "object": "bowl"
+  },
+  {
+    "hoi_id": 258,
+    "verb": "cutting",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 259,
+    "verb": "eating",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 260,
+    "verb": "holding",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 261,
+    "verb": "smelling",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 262,
+    "verb": "stirring",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 263,
+    "verb": "washing",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 264,
+    "verb": "no_interaction",
+    "object": "broccoli"
+  },
+  {
+    "hoi_id": 265,
+    "verb": "blowing",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 266,
+    "verb": "carrying",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 267,
+    "verb": "cutting",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 268,
+    "verb": "eating",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 269,
+    "verb": "holding",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 270,
+    "verb": "lighting",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 271,
+    "verb": "making",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 272,
+    "verb": "picking_up",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 273,
+    "verb": "no_interaction",
+    "object": "cake"
+  },
+  {
+    "hoi_id": 274,
+    "verb": "carrying",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 275,
+    "verb": "cooking",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 276,
+    "verb": "cutting",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 277,
+    "verb": "eating",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 278,
+    "verb": "holding",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 279,
+    "verb": "peeling",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 280,
+    "verb": "smelling",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 281,
+    "verb": "stirring",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 282,
+    "verb": "washing",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 283,
+    "verb": "no_interaction",
+    "object": "carrot"
+  },
+  {
+    "hoi_id": 284,
+    "verb": "carrying",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 285,
+    "verb": "holding",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 286,
+    "verb": "reading",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 287,
+    "verb": "repairing",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 288,
+    "verb": "talking_on",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 289,
+    "verb": "texting_on",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 290,
+    "verb": "no_interaction",
+    "object": "cell_phone"
+  },
+  {
+    "hoi_id": 291,
+    "verb": "checking",
+    "object": "clock"
+  },
+  {
+    "hoi_id": 292,
+    "verb": "holding",
+    "object": "clock"
+  },
+  {
+    "hoi_id": 293,
+    "verb": "repairing",
+    "object": "clock"
+  },
+  {
+    "hoi_id": 294,
+    "verb": "setting",
+    "object": "clock"
+  },
+  {
+    "hoi_id": 295,
+    "verb": "no_interaction",
+    "object": "clock"
+  },
+  {
+    "hoi_id": 296,
+    "verb": "carrying",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 297,
+    "verb": "drinking_with",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 298,
+    "verb": "holding",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 299,
+    "verb": "inspecting",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 300,
+    "verb": "pouring",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 301,
+    "verb": "sipping",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 302,
+    "verb": "smelling",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 303,
+    "verb": "filling",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 304,
+    "verb": "washing",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 305,
+    "verb": "no_interaction",
+    "object": "cup"
+  },
+  {
+    "hoi_id": 306,
+    "verb": "buying",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 307,
+    "verb": "carrying",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 308,
+    "verb": "eating",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 309,
+    "verb": "holding",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 310,
+    "verb": "making",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 311,
+    "verb": "picking_up",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 312,
+    "verb": "smelling",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 313,
+    "verb": "no_interaction",
+    "object": "donut"
+  },
+  {
+    "hoi_id": 314,
+    "verb": "feeding",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 315,
+    "verb": "holding",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 316,
+    "verb": "hosing",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 317,
+    "verb": "hugging",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 318,
+    "verb": "kissing",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 319,
+    "verb": "hopping_on",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 320,
+    "verb": "petting",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 321,
+    "verb": "riding",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 322,
+    "verb": "walking",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 323,
+    "verb": "washing",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 324,
+    "verb": "watching",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 325,
+    "verb": "no_interaction",
+    "object": "elephant"
+  },
+  {
+    "hoi_id": 326,
+    "verb": "hugging",
+    "object": "fire_hydrant"
+  },
+  {
+    "hoi_id": 327,
+    "verb": "inspecting",
+    "object": "fire_hydrant"
+  },
+  {
+    "hoi_id": 328,
+    "verb": "opening",
+    "object": "fire_hydrant"
+  },
+  {
+    "hoi_id": 329,
+    "verb": "painting",
+    "object": "fire_hydrant"
+  },
+  {
+    "hoi_id": 330,
+    "verb": "no_interaction",
+    "object": "fire_hydrant"
+  },
+  {
+    "hoi_id": 331,
+    "verb": "holding",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 332,
+    "verb": "lifting",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 333,
+    "verb": "sticking",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 334,
+    "verb": "licking",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 335,
+    "verb": "washing",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 336,
+    "verb": "no_interaction",
+    "object": "fork"
+  },
+  {
+    "hoi_id": 337,
+    "verb": "blocking",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 338,
+    "verb": "catching",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 339,
+    "verb": "holding",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 340,
+    "verb": "spining",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 341,
+    "verb": "throwing",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 342,
+    "verb": "no_interaction",
+    "object": "frisbee"
+  },
+  {
+    "hoi_id": 343,
+    "verb": "feeding",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 344,
+    "verb": "kissing",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 345,
+    "verb": "petting",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 346,
+    "verb": "riding",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 347,
+    "verb": "watching",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 348,
+    "verb": "no_interaction",
+    "object": "giraffe"
+  },
+  {
+    "hoi_id": 349,
+    "verb": "holding",
+    "object": "hair_drier"
+  },
+  {
+    "hoi_id": 350,
+    "verb": "operating",
+    "object": "hair_drier"
+  },
+  {
+    "hoi_id": 351,
+    "verb": "repairing",
+    "object": "hair_drier"
+  },
+  {
+    "hoi_id": 352,
+    "verb": "no_interaction",
+    "object": "hair_drier"
+  },
+  {
+    "hoi_id": 353,
+    "verb": "carrying",
+    "object": "handbag"
+  },
+  {
+    "hoi_id": 354,
+    "verb": "holding",
+    "object": "handbag"
+  },
+  {
+    "hoi_id": 355,
+    "verb": "inspecting",
+    "object": "handbag"
+  },
+  {
+    "hoi_id": 356,
+    "verb": "no_interaction",
+    "object": "handbag"
+  },
+  {
+    "hoi_id": 357,
+    "verb": "carrying",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 358,
+    "verb": "cooking",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 359,
+    "verb": "cutting",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 360,
+    "verb": "eating",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 361,
+    "verb": "holding",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 362,
+    "verb": "making",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 363,
+    "verb": "no_interaction",
+    "object": "hot_dog"
+  },
+  {
+    "hoi_id": 364,
+    "verb": "carrying",
+    "object": "keyboard"
+  },
+  {
+    "hoi_id": 365,
+    "verb": "cleaning",
+    "object": "keyboard"
+  },
+  {
+    "hoi_id": 366,
+    "verb": "holding",
+    "object": "keyboard"
+  },
+  {
+    "hoi_id": 367,
+    "verb": "typing_on",
+    "object": "keyboard"
+  },
+  {
+    "hoi_id": 368,
+    "verb": "no_interaction",
+    "object": "keyboard"
+  },
+  {
+    "hoi_id": 369,
+    "verb": "assembling",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 370,
+    "verb": "carrying",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 371,
+    "verb": "flying",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 372,
+    "verb": "holding",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 373,
+    "verb": "inspecting",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 374,
+    "verb": "launching",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 375,
+    "verb": "pulling",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 376,
+    "verb": "no_interaction",
+    "object": "kite"
+  },
+  {
+    "hoi_id": 377,
+    "verb": "cutting_with",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 378,
+    "verb": "holding",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 379,
+    "verb": "sticking",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 380,
+    "verb": "washing",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 381,
+    "verb": "wielding",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 382,
+    "verb": "licking",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 383,
+    "verb": "no_interaction",
+    "object": "knife"
+  },
+  {
+    "hoi_id": 384,
+    "verb": "holding",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 385,
+    "verb": "opening",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 386,
+    "verb": "reading",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 387,
+    "verb": "repairing",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 388,
+    "verb": "typing_on",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 389,
+    "verb": "no_interaction",
+    "object": "laptop"
+  },
+  {
+    "hoi_id": 390,
+    "verb": "cleaning",
+    "object": "microwave"
+  },
+  {
+    "hoi_id": 391,
+    "verb": "opening",
+    "object": "microwave"
+  },
+  {
+    "hoi_id": 392,
+    "verb": "operating",
+    "object": "microwave"
+  },
+  {
+    "hoi_id": 393,
+    "verb": "no_interaction",
+    "object": "microwave"
+  },
+  {
+    "hoi_id": 394,
+    "verb": "controling",
+    "object": "mouse"
+  },
+  {
+    "hoi_id": 395,
+    "verb": "holding",
+    "object": "mouse"
+  },
+  {
+    "hoi_id": 396,
+    "verb": "repairing",
+    "object": "mouse"
+  },
+  {
+    "hoi_id": 397,
+    "verb": "no_interaction",
+    "object": "mouse"
+  },
+  {
+    "hoi_id": 398,
+    "verb": "buying",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 399,
+    "verb": "cutting",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 400,
+    "verb": "eating",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 401,
+    "verb": "holding",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 402,
+    "verb": "inspecting",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 403,
+    "verb": "peeling",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 404,
+    "verb": "picking",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 405,
+    "verb": "squeezing",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 406,
+    "verb": "washing",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 407,
+    "verb": "no_interaction",
+    "object": "orange"
+  },
+  {
+    "hoi_id": 408,
+    "verb": "cleaning",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 409,
+    "verb": "holding",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 410,
+    "verb": "inspecting",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 411,
+    "verb": "opening",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 412,
+    "verb": "repairing",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 413,
+    "verb": "operating",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 414,
+    "verb": "no_interaction",
+    "object": "oven"
+  },
+  {
+    "hoi_id": 415,
+    "verb": "checking",
+    "object": "parking_meter"
+  },
+  {
+    "hoi_id": 416,
+    "verb": "paying",
+    "object": "parking_meter"
+  },
+  {
+    "hoi_id": 417,
+    "verb": "repairing",
+    "object": "parking_meter"
+  },
+  {
+    "hoi_id": 418,
+    "verb": "no_interaction",
+    "object": "parking_meter"
+  },
+  {
+    "hoi_id": 419,
+    "verb": "buying",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 420,
+    "verb": "carrying",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 421,
+    "verb": "cooking",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 422,
+    "verb": "cutting",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 423,
+    "verb": "eating",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 424,
+    "verb": "holding",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 425,
+    "verb": "making",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 426,
+    "verb": "picking_up",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 427,
+    "verb": "sliding",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 428,
+    "verb": "smelling",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 429,
+    "verb": "no_interaction",
+    "object": "pizza"
+  },
+  {
+    "hoi_id": 430,
+    "verb": "cleaning",
+    "object": "refrigerator"
+  },
+  {
+    "hoi_id": 431,
+    "verb": "holding",
+    "object": "refrigerator"
+  },
+  {
+    "hoi_id": 432,
+    "verb": "moving",
+    "object": "refrigerator"
+  },
+  {
+    "hoi_id": 433,
+    "verb": "opening",
+    "object": "refrigerator"
+  },
+  {
+    "hoi_id": 434,
+    "verb": "no_interaction",
+    "object": "refrigerator"
+  },
+  {
+    "hoi_id": 435,
+    "verb": "holding",
+    "object": "remote"
+  },
+  {
+    "hoi_id": 436,
+    "verb": "pointing",
+    "object": "remote"
+  },
+  {
+    "hoi_id": 437,
+    "verb": "swinging",
+    "object": "remote"
+  },
+  {
+    "hoi_id": 438,
+    "verb": "no_interaction",
+    "object": "remote"
+  },
+  {
+    "hoi_id": 439,
+    "verb": "carrying",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 440,
+    "verb": "cooking",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 441,
+    "verb": "cutting",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 442,
+    "verb": "eating",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 443,
+    "verb": "holding",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 444,
+    "verb": "making",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 445,
+    "verb": "no_interaction",
+    "object": "sandwich"
+  },
+  {
+    "hoi_id": 446,
+    "verb": "cutting_with",
+    "object": "scissors"
+  },
+  {
+    "hoi_id": 447,
+    "verb": "holding",
+    "object": "scissors"
+  },
+  {
+    "hoi_id": 448,
+    "verb": "opening",
+    "object": "scissors"
+  },
+  {
+    "hoi_id": 449,
+    "verb": "no_interaction",
+    "object": "scissors"
+  },
+  {
+    "hoi_id": 450,
+    "verb": "cleaning",
+    "object": "sink"
+  },
+  {
+    "hoi_id": 451,
+    "verb": "repairing",
+    "object": "sink"
+  },
+  {
+    "hoi_id": 452,
+    "verb": "washing",
+    "object": "sink"
+  },
+  {
+    "hoi_id": 453,
+    "verb": "no_interaction",
+    "object": "sink"
+  },
+  {
+    "hoi_id": 454,
+    "verb": "carrying",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 455,
+    "verb": "flipping",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 456,
+    "verb": "grinding",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 457,
+    "verb": "holding",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 458,
+    "verb": "jumping",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 459,
+    "verb": "picking_up",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 460,
+    "verb": "riding",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 461,
+    "verb": "sitting_on",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 462,
+    "verb": "standing_on",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 463,
+    "verb": "no_interaction",
+    "object": "skateboard"
+  },
+  {
+    "hoi_id": 464,
+    "verb": "adjusting",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 465,
+    "verb": "carrying",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 466,
+    "verb": "holding",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 467,
+    "verb": "inspecting",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 468,
+    "verb": "jumping",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 469,
+    "verb": "picking_up",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 470,
+    "verb": "repairing",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 471,
+    "verb": "riding",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 472,
+    "verb": "standing_on",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 473,
+    "verb": "wearing",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 474,
+    "verb": "no_interaction",
+    "object": "skis"
+  },
+  {
+    "hoi_id": 475,
+    "verb": "adjusting",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 476,
+    "verb": "carrying",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 477,
+    "verb": "grinding",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 478,
+    "verb": "holding",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 479,
+    "verb": "jumping",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 480,
+    "verb": "riding",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 481,
+    "verb": "standing_on",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 482,
+    "verb": "wearing",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 483,
+    "verb": "no_interaction",
+    "object": "snowboard"
+  },
+  {
+    "hoi_id": 484,
+    "verb": "holding",
+    "object": "spoon"
+  },
+  {
+    "hoi_id": 485,
+    "verb": "licking",
+    "object": "spoon"
+  },
+  {
+    "hoi_id": 486,
+    "verb": "washing",
+    "object": "spoon"
+  },
+  {
+    "hoi_id": 487,
+    "verb": "sipping",
+    "object": "spoon"
+  },
+  {
+    "hoi_id": 488,
+    "verb": "no_interaction",
+    "object": "spoon"
+  },
+  {
+    "hoi_id": 489,
+    "verb": "blocking",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 490,
+    "verb": "carrying",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 491,
+    "verb": "catching",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 492,
+    "verb": "dribbling",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 493,
+    "verb": "hitting",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 494,
+    "verb": "holding",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 495,
+    "verb": "inspecting",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 496,
+    "verb": "kicking",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 497,
+    "verb": "picking_up",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 498,
+    "verb": "serving",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 499,
+    "verb": "signing",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 500,
+    "verb": "spining",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 501,
+    "verb": "throwing",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 502,
+    "verb": "no_interaction",
+    "object": "sports_ball"
+  },
+  {
+    "hoi_id": 503,
+    "verb": "holding",
+    "object": "stop_sign"
+  },
+  {
+    "hoi_id": 504,
+    "verb": "standing_under",
+    "object": "stop_sign"
+  },
+  {
+    "hoi_id": 505,
+    "verb": "stopping_at",
+    "object": "stop_sign"
+  },
+  {
+    "hoi_id": 506,
+    "verb": "no_interaction",
+    "object": "stop_sign"
+  },
+  {
+    "hoi_id": 507,
+    "verb": "carrying",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 508,
+    "verb": "dragging",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 509,
+    "verb": "holding",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 510,
+    "verb": "hugging",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 511,
+    "verb": "loading",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 512,
+    "verb": "opening",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 513,
+    "verb": "packing",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 514,
+    "verb": "picking_up",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 515,
+    "verb": "zipping",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 516,
+    "verb": "no_interaction",
+    "object": "suitcase"
+  },
+  {
+    "hoi_id": 517,
+    "verb": "carrying",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 518,
+    "verb": "dragging",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 519,
+    "verb": "holding",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 520,
+    "verb": "inspecting",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 521,
+    "verb": "jumping",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 522,
+    "verb": "lying_on",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 523,
+    "verb": "loading",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 524,
+    "verb": "riding",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 525,
+    "verb": "standing_on",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 526,
+    "verb": "sitting_on",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 527,
+    "verb": "washing",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 528,
+    "verb": "no_interaction",
+    "object": "surfboard"
+  },
+  {
+    "hoi_id": 529,
+    "verb": "carrying",
+    "object": "teddy_bear"
+  },
+  {
+    "hoi_id": 530,
+    "verb": "holding",
+    "object": "teddy_bear"
+  },
+  {
+    "hoi_id": 531,
+    "verb": "hugging",
+    "object": "teddy_bear"
+  },
+  {
+    "hoi_id": 532,
+    "verb": "kissing",
+    "object": "teddy_bear"
+  },
+  {
+    "hoi_id": 533,
+    "verb": "no_interaction",
+    "object": "teddy_bear"
+  },
+  {
+    "hoi_id": 534,
+    "verb": "carrying",
+    "object": "tennis_racket"
+  },
+  {
+    "hoi_id": 535,
+    "verb": "holding",
+    "object": "tennis_racket"
+  },
+  {
+    "hoi_id": 536,
+    "verb": "inspecting",
+    "object": "tennis_racket"
+  },
+  {
+    "hoi_id": 537,
+    "verb": "swinging",
+    "object": "tennis_racket"
+  },
+  {
+    "hoi_id": 538,
+    "verb": "no_interaction",
+    "object": "tennis_racket"
+  },
+  {
+    "hoi_id": 539,
+    "verb": "adjusting",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 540,
+    "verb": "cutting",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 541,
+    "verb": "holding",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 542,
+    "verb": "inspecting",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 543,
+    "verb": "pulling",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 544,
+    "verb": "tying",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 545,
+    "verb": "wearing",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 546,
+    "verb": "no_interaction",
+    "object": "tie"
+  },
+  {
+    "hoi_id": 547,
+    "verb": "holding",
+    "object": "toaster"
+  },
+  {
+    "hoi_id": 548,
+    "verb": "operating",
+    "object": "toaster"
+  },
+  {
+    "hoi_id": 549,
+    "verb": "repairing",
+    "object": "toaster"
+  },
+  {
+    "hoi_id": 550,
+    "verb": "no_interaction",
+    "object": "toaster"
+  },
+  {
+    "hoi_id": 551,
+    "verb": "cleaning",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 552,
+    "verb": "flushing",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 553,
+    "verb": "opening",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 554,
+    "verb": "repairing",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 555,
+    "verb": "sitting_on",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 556,
+    "verb": "standing_on",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 557,
+    "verb": "washing",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 558,
+    "verb": "no_interaction",
+    "object": "toilet"
+  },
+  {
+    "hoi_id": 559,
+    "verb": "brushing_with",
+    "object": "toothbrush"
+  },
+  {
+    "hoi_id": 560,
+    "verb": "holding",
+    "object": "toothbrush"
+  },
+  {
+    "hoi_id": 561,
+    "verb": "washing",
+    "object": "toothbrush"
+  },
+  {
+    "hoi_id": 562,
+    "verb": "no_interaction",
+    "object": "toothbrush"
+  },
+  {
+    "hoi_id": 563,
+    "verb": "installing",
+    "object": "traffic_light"
+  },
+  {
+    "hoi_id": 564,
+    "verb": "repairing",
+    "object": "traffic_light"
+  },
+  {
+    "hoi_id": 565,
+    "verb": "standing_under",
+    "object": "traffic_light"
+  },
+  {
+    "hoi_id": 566,
+    "verb": "stopping_at",
+    "object": "traffic_light"
+  },
+  {
+    "hoi_id": 567,
+    "verb": "no_interaction",
+    "object": "traffic_light"
+  },
+  {
+    "hoi_id": 568,
+    "verb": "directing",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 569,
+    "verb": "driving",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 570,
+    "verb": "inspecting",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 571,
+    "verb": "loading",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 572,
+    "verb": "repairing",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 573,
+    "verb": "riding",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 574,
+    "verb": "sitting_on",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 575,
+    "verb": "washing",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 576,
+    "verb": "no_interaction",
+    "object": "truck"
+  },
+  {
+    "hoi_id": 577,
+    "verb": "carrying",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 578,
+    "verb": "holding",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 579,
+    "verb": "losing",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 580,
+    "verb": "opening",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 581,
+    "verb": "repairing",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 582,
+    "verb": "setting",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 583,
+    "verb": "standing_under",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 584,
+    "verb": "no_interaction",
+    "object": "umbrella"
+  },
+  {
+    "hoi_id": 585,
+    "verb": "holding",
+    "object": "vase"
+  },
+  {
+    "hoi_id": 586,
+    "verb": "making",
+    "object": "vase"
+  },
+  {
+    "hoi_id": 587,
+    "verb": "painting",
+    "object": "vase"
+  },
+  {
+    "hoi_id": 588,
+    "verb": "no_interaction",
+    "object": "vase"
+  },
+  {
+    "hoi_id": 589,
+    "verb": "filling",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 590,
+    "verb": "holding",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 591,
+    "verb": "sipping",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 592,
+    "verb": "toasting",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 593,
+    "verb": "licking",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 594,
+    "verb": "washing",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 595,
+    "verb": "no_interaction",
+    "object": "wine_glass"
+  },
+  {
+    "hoi_id": 596,
+    "verb": "feeding",
+    "object": "zebra"
+  },
+  {
+    "hoi_id": 597,
+    "verb": "holding",
+    "object": "zebra"
+  },
+  {
+    "hoi_id": 598,
+    "verb": "petting",
+    "object": "zebra"
+  },
+  {
+    "hoi_id": 599,
+    "verb": "watching",
+    "object": "zebra"
+  },
+  {
+    "hoi_id": 600,
+    "verb": "no_interaction",
+    "object": "zebra"
+  }
+]
